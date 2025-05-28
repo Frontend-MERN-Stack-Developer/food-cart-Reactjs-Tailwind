@@ -41,3 +41,7 @@ src/
 ### 📱 Mobile View
 
 [Mobile View](screenshots/mobileView.png)
+
+## 📸 Live Demo
+
+🚀 **https://food-cart-reactjs-tailwind-git-main-tasawar-mernstack.vercel.app**
